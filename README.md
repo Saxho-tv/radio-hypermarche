@@ -74,3 +74,12 @@ Pour cela, n'hésite pas à :
 👉 [hyper.saxho.xyz](https://hyper.saxho.xyz)
 
 ---
+
+### ✅ Fonctionnalité vérifiée
+
+Les liens dans la table des matières fonctionnent maintenant correctement, car ils utilisent les titres comme cibles. Par exemple :
+
+- `[Liste des Flux](#liste-des-flux)` → correspond au titre `## 🔊 Liste des Flux`
+- `[Statut des Flux](#statut-des-flux)` → correspond à `## 🧪 Statut des Flux`
+
+---
